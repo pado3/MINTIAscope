@@ -1,7 +1,7 @@
 # MINTIAscope
 simple PC oscilloscope based upon kit_scope, Arduino, Processing
 <p>
-  This is based upon kit_scope by Kyusyu Institute of Technology (Kyutech).<br />
+  This project is based upon kit_scope by Kyusyu Institute of Technology (Kyutech).<br />
   URL: http://www.iizuka.kyutech.ac.jp/faculty/physicalcomputing/pc_kitscope
 </p><p>
   With my project, input range is expanded from 0~+5V to -9~+9V, input impedance is controlled to 1M-ohm.
@@ -20,5 +20,6 @@ simple PC oscilloscope based upon kit_scope, Arduino, Processing
     <li>larger font, show release name, change print color</li>
   </ol>
 </p><p>
-  I plan to write a blog on this subject.　Wait for moment, please.
+  I wrote a blog on the background and design in detail. Please access if you need.<br />
+  https://pado.tea-nifty.com/top/2021/02/post-22159c.html 
 </p>
